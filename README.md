@@ -55,7 +55,7 @@ is a common way scientist share code. If you download this repo you will find
 one small program. To download open a terminal and type:
 
 ```
-git clone https://git.nygenome.org/jshelton/nygc-stem.git
+git clone https://github.com/JenniferShelton/nygc-stem.git
 
 ~/nygc-stem/nygc_stem.py
 
